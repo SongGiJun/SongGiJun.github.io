@@ -14,7 +14,10 @@ Education
 * (2023) Admitted to the Double Major Program in Computer Science and Engineering
 * (2022.03 ~) B.S. in mathematics, Kangwon National University
   * GPA:4.07/4.5 (Major GPA:4.08/4.5)
-  * 이수학점 (5학기 102/130)
+  * 이수학점 (5학기, 102/130학점)
+    
+### Military Service
+- (2023.03.20 ~ 2024.09.19) Republic of Korea Army, 병장 만기전역
 
 Work experience
 ======
