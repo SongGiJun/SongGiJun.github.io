@@ -26,9 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Gijun Song"
   pronouns         : # example: "she/her"  
-  bio              : |
-                    "Mathematics & Computer Science Student
-                    at Kangwon National University"
+  bio              : "Mathematics & Computer Science Student at Kangwon National University"
   location         : "Republic of Korea"
   employer         : 
   uri              : # URL
