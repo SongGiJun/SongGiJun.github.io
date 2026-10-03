@@ -34,6 +34,7 @@ Learning Experience
 
 ### Others
 - Git/GitHub
+- [Notion](https://app.notion.com/p/MEMO-37c50703fb5780c989b9cfc7cb8c9d53?source=copy_link)
   
 Certification
 ======
