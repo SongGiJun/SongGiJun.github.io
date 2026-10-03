@@ -11,40 +11,29 @@ redirect_from:
 
 Education
 ======
-* (2023) Admitted to the Double Major Program in Computer Science and Engineering
-* (2022.03 ~) B.S. in mathematics, Kangwon National University
+* (2022.03 ~ Present) B.S. in Mathematics, Kangwon National University
+  * (2023 ~ Present) Double Major in Computer Science and Engineering 
   * GPA:4.07/4.5 (Major GPA:4.08/4.5)
   * 이수학점 (5학기, 102/130학점)
     
 ### Military Service
-- (2023.03.20 ~ 2024.09.19) Republic of Korea Army, 병장 만기전역
-
-Work experience
-======
-* Example
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* (2023.03.20 ~ 2024.09.19) Republic of Korea Army, 병장 만기전역
   
-Skills
+Learning Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Computer Science
+- Python, C
+- Bash Shell & Shell Scripting
+- Machine Learning
+- (-ing) Deep Learning
+- (-ing) Database Systems
+
+### Mathematics
+- Linear Algebra
+- Calculus
+
+### Others
+- Git/GitHub
   
 Certification
 ======
