@@ -29,7 +29,7 @@ Learning Experience
 - Linear Algebra
 - Calculus
 
-### Others
+### etc.
 - Git/GitHub
 - [Notion](https://app.notion.com/p/MEMO-37c50703fb5780c989b9cfc7cb8c9d53?source=copy_link)
   
@@ -37,8 +37,6 @@ Certification
 ======
 * (2026.09.11) SQLD
 
-etc
-===
-
+-----
 ### Military Service
 * (2023.03.20 ~ 2024.09.19) Republic of Korea Army, 병장 만기전역
