@@ -12,18 +12,15 @@ redirect_from:
 Education
 ======
 
------
-
 * (2022.03 ~ Present) B.S. in Mathematics, Kangwon National University
   * (2023 ~ Present) Double Major in Computer Science and Engineering 
   * GPA:4.07/4.5 (Major GPA:4.08/4.5)
   * 이수학점 (5학기, 102/130학점)
 
 -----
+
 Learning Experience
 ======
-
------
 
 ### Computer Science
 - Python, C
