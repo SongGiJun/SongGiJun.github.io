@@ -23,7 +23,7 @@ repository               : "SongGiJun/SongGiJun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Gijun_song.jpg #"profile.png"
+  avatar           : "profile.png"
   name             : "Gijun Song"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics & Computer Science Student at Kangwon National University"
